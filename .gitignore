@@ -14,3 +14,6 @@ build/
 *.swo
 .DS_Store
 Thumbs.db
+
+# internal idea folder, not published
+ideas/
