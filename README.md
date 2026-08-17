@@ -1,6 +1,6 @@
 # Mastery Track: Computational Neuroscience
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Mastery Track](https://img.shields.io/badge/Mastery%20Track-The%20Human%20System-2F5233?style=flat-square&labelColor=0d1117)](https://github.com/RoyPiring) [![Systems](https://img.shields.io/badge/systems-0-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--07--23-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Mastery Track](https://img.shields.io/badge/Mastery%20Track-The%20Human%20System-2F5233?style=flat-square&labelColor=0d1117)](https://github.com/RoyPiring) [![Systems](https://img.shields.io/badge/systems-1-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--08--13-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
 
 > *A hands-on route from amateur to command in computational neuroscience, one build at a time. A route to command, not a degree.*
 
@@ -8,7 +8,7 @@ I'm learning computational neuroscience the way it actually sticks: building the
 
 ## Featured Systems
 
-The builds that best show the field will sit here as they land.
+- **[Every Level on One Map](./systems/every-level-on-one-map/)**: six node types and eight closed edge types across Marr levels and scale layers, loaded from YAML, held sound by an integrity checker, and queried for the shortest path from an ion channel to spatial navigation.
 
 ## What it covers
 
