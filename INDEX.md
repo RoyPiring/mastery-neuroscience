@@ -8,6 +8,6 @@ Computational Neuroscience engineered as a run of hands-on end-to-end builds tow
 
 | # | System | Onboarded | Last updated | What it does |
 |--:|---|---|---|---|
-| 1 | [Every Level on One Map](./systems/every-level-on-one-map/) | 2026-08-13 | 2026-08-13 | A typed neuroscience concept graph built from YAML with six node types and a closed eight-edge vocabulary spanning Marr levels, scale layers, subfields, landmarks, methods, and models, kept sound by a loader and integrity checker, queried against answers written in advance, and extended with a thickened branch and a teach-back. |
+| 1 | [Every Level on One Map](./systems/every-level-on-one-map/) | 2026-08-16 | 2026-08-16 | A typed neuroscience concept graph built from YAML with six node types and a closed eight-edge vocabulary spanning Marr levels, scale layers, subfields, landmarks, methods, and models, kept sound by a loader and integrity checker, queried against answers written in advance, and extended with a thickened branch and a teach-back. |
 
 _No systems onboarded yet. Target: 100._
