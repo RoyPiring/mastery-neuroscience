@@ -4,7 +4,7 @@ This mastery repository is built from NextWork projects, created via NextWork's 
 
 **Original NextWork projects:**
 
-_None onboarded yet. Completed builds are listed here as they land._
+- Every Level on One Map
 
 ## About NextWork
 
